@@ -1,0 +1,21 @@
+.l-content{
+    height: 60px;
+    line-height: 60px;
+    float: left;
+}
+.l-content .el-button{
+    display: inline-block;
+}
+.l-content p{ 
+    display: inline-block;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 13px;
+}
+.r-content{
+    float: right;
+}
+.r-content img{
+    width: 70%;
+    margin-top: 15px;
+}

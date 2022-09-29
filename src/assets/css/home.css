@@ -1,0 +1,56 @@
+.Info{
+    font-size: 14px;
+}
+.uer{
+    position: relative;
+}
+.user img{
+    width: 80px;
+    height: 80px;
+}
+.user .userInfo{
+    position: absolute;
+    top: 50px;
+    left: 140px;
+}
+.user .userInfo p:first-child{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.otherInfo p:first-child{
+    margin-bottom: 10px;
+}
+.num{
+    margin: 15px 0 20px 0;
+}
+.num:after{
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.num .icon{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.num .el-card{
+    width: 180px;
+    float: left;
+    margin: 5px 0 0 7px;
+}
+.num .el-card:first-child,.num .el-card:nth-child(4){
+    margin-left: 0;
+}
+.num .detail p:first-child{
+    font-size: 20px;
+}
+.num .detail p:last-child{
+    font-size: 10px;
+}
+.end .el-card{
+    float: left;
+    margin-top: 20px;
+}

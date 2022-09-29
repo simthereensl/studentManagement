@@ -1,0 +1,12 @@
+.addStudent {
+    margin-top: 20px;
+}
+.addStudent .add{
+    position: fixed;
+    top: 85px;
+}
+.addStudent .upload{
+    position: fixed;
+    top: 85px;
+    right: 70px;
+}

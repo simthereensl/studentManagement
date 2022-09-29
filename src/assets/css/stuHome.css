@@ -1,0 +1,14 @@
+.stu {
+    margin: 30px 0 0 50px;
+}
+
+.stu1 {
+    margin: 30px 0 0 60px;
+}
+
+.stu .el-card.is-always-shadow{
+    height: 450px;
+}
+.stu1 .el-card.is-always-shadow{
+    height: 450px;
+}
